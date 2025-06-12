@@ -1,0 +1,4 @@
+media:					2025.1848356573455
+desviación estándar:	4.562225334198215
+
+Respecto al test-1, no varía la media, pero la desviación estándar es un orden de magnitud menor.
