@@ -1,0 +1,4 @@
+media:					2017.5346439725972
+desviación estándar:	50.38120582121869
+
+Los valores obtenidos son muy similares a los del test-1
